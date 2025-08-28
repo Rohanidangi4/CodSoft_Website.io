@@ -142,7 +142,7 @@
 .imgcc {
     background: url(images/photo-1636955816868-fcb881e57954.avif) center/cover no-repeat;
     width: 100%;
-    height: 80vh;
+   min-height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
