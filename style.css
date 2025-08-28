@@ -201,6 +201,7 @@
 
 .service1 {
     width: 100%;
+    height: auto;
     background-color: rgb(231, 237, 240);
     text-decoration: underline;
     text-align: center;
@@ -270,7 +271,7 @@
 
 .services {
     width: 100%;
-    height: auto;
+    min-height: auto;
     background-color: #fff;
     display: flex;
     justify-content: space-between;
